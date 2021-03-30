@@ -17,6 +17,7 @@
     <modules>
         <module>distributed-oauth2-server</module>
         <module>distributed-oauth2-gateway</module>
+        <module>distributed-oauth-client</module>
     </modules>
 
     <properties>
